@@ -51,9 +51,8 @@ The following features are planned for future implementation:
 
 ### Preview the App
 
-> **Note:** The Render cloud deployment free tier has an inactivity period of 50 seconds. After the server has been inactive for 50 seconds, users will have to wait 50 seconds to see the data.
+Scan the QR code to open the app in Expo GO or click the link: [Open the app](https://expo.dev/preview/update?message=change%20backend%20deployment%20service&updateRuntimeVersion=1.0.0&createdAt=2025-01-07T17%3A34%3A32.228Z&slug=exp&projectId=d21cc783-f718-4caa-b9a0-ce26fa413382&group=f4f00681-652b-454c-9ec4-9df37c6abd1f)
 
-Scan the QR code to open the app in Expo GO or click the link: [Open the app](https://expo.dev/preview/update?message=Updated%20app&updateRuntimeVersion=1.0.0&createdAt=2025-01-07T15%3A55%3A38.789Z&slug=exp&projectId=d21cc783-f718-4caa-b9a0-ce26fa413382&group=8735478f-ea1a-4289-852d-83946ae97fdf)
+<img width="259" alt="image" src="https://github.com/user-attachments/assets/ee2f19bb-f4e8-4824-80ae-124527865acb" />
 
-<img width="520" alt="image" src="https://github.com/user-attachments/assets/9f2a9c49-27b8-4222-8a18-e2ff29cb5fba" />
 
