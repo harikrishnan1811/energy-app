@@ -1,0 +1,4 @@
+src/node_modules
+microservices/node_modules
+client/energyiq-client/node_modules
+client/energyiq-client/expo-env.d.ts
