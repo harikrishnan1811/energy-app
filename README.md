@@ -19,7 +19,7 @@ The application includes the following batch job services:
 
 The following diagram represents the Entity-Relationship (ER) model of the database:
 
-![image](https://github.com/user-attachments/assets/b06f47fe-a850-4888-9de8-a8268965a02b)
+![image](https://github.com/user-attachments/assets/8f60e147-f95a-4c51-8022-b1eefe743f6c)
 
 ### UI/UX Design
 
