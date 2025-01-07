@@ -48,6 +48,7 @@ The following features are planned for future implementation:
 1. **Front end**: React Native, D3.Js, ChartJs
 2. **Back end**: NodeJs
 3. **Database**: Postgres (Hosted on Neon DB)
+4. **Deployment**: Railway.app
 
 ### Preview the App
 
