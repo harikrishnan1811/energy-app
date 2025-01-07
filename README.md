@@ -4,7 +4,7 @@ Welcome to the Energy IQ Application repository. This document provides an overv
 
 ### System Design
 
-![System Design](https://github.com/user-attachments/assets/cfb3c51c-2111-4f80-b259-07c4cc1c6973)
+![image](https://github.com/user-attachments/assets/26d18697-f393-47b3-86ad-9043340fba79)
 
 The diagram above illustrates the system design of the Energy IQ Application.
 
