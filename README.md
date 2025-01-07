@@ -19,7 +19,7 @@ The application includes the following batch job services:
 
 The following diagram represents the Entity-Relationship (ER) model of the database:
 
-![ER Diagram](https://github.com/user-attachments/assets/bb6d4cb8-93be-4e5d-bd8f-5ad061cec0f5)
+![image](https://github.com/user-attachments/assets/b06f47fe-a850-4888-9de8-a8268965a02b)
 
 ### UI/UX Design
 
@@ -55,4 +55,5 @@ The following features are planned for future implementation:
 
 Scan the QR code to open the app in Expo GO or click the link: [Open the app](https://expo.dev/preview/update?message=Updated%20app&updateRuntimeVersion=1.0.0&createdAt=2025-01-07T15%3A55%3A38.789Z&slug=exp&projectId=d21cc783-f718-4caa-b9a0-ce26fa413382&group=8735478f-ea1a-4289-852d-83946ae97fdf)
 
-<img width="275" alt="App Preview" src="https://github.com/user-attachments/assets/c9d09b61-b373-4317-80dc-e9ada2df4fe9" />
+<img width="520" alt="image" src="https://github.com/user-attachments/assets/9f2a9c49-27b8-4222-8a18-e2ff29cb5fba" />
+
